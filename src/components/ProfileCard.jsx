@@ -22,7 +22,6 @@ const ProfileCard = () => {
                 <ul>
                     <li>fake age</li>
                     <li>location</li>
-                    
                 </ul>
             </section>
         </div>
